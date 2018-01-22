@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# vim:fenc=utf-8
+#
+# Copyright © 2018 Odin <{{cookiecutter.email}}>
+#
+# Distributed under terms of the MIT license.
 #
 # {{ cookiecutter.project_slug }} documentation build configuration file, created by
 # sphinx-quickstart on Tue Jul  9 22:26:36 2013.

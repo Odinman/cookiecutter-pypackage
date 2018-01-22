@@ -1,6 +1,14 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Update encrypted deploy password in Travis config file."""
+# vim:fenc=utf-8
+#
+# Copyright © 2018 Odin <{{cookiecutter.email}}>
+#
+# Distributed under terms of the MIT license.
+
+"""
+Update encrypted deploy password in Travis config file.
+"""
 
 
 from __future__ import print_function
